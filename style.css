@@ -5,41 +5,49 @@
 
 .box-conteiner1 {
     position: absolute;
-    background-color: gray;
+    background-color: white;
     width: 595px;
-    height: 842px
-    
+    height: 842px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #9C8B27;
 }
 
 .box-medium1 {
     position: absolute;
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     width: 572px;
     height: 181px;
     top: 20px;
     left: 20px;
+    border-top: 0px;
+    border-bottom: 2px solid #9C8B27;
+    border-right: 0px;
+    border-left: 0px;
 }
 
 .box-small1 {
     position: absolute;
-    background-color: burlywood;
+    background-color: rgb(255, 255, 255);
     width: 280px;
     height: 36px;
     top: 23px;
-    left: 260px;
+    left: 225px;
     color: #9C8B27;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 37px;
+    font-weight: bold;
 
 }
 
+
 .box-small2 {
     position: absolute;
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
     width: 315px;
     height: 40px;
     top: 65px;
-    left: 260px;
+    left: 225px;
     color: #1B2137;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
@@ -48,22 +56,39 @@
 
 .box-small3 {
     background-color: rgb(211, 211, 24);
-    width: 30px;
-    height: 30px;
+    width: 10px;
+    height: 10px;
     top: 115px;
-    left: 260px;
-    position:absolute
+    left: 225px;
+    position: absolute;
+}
+
+.text1 {
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 125px;
+    left: 265px;
     
 }
 
-.box-icon1 {
-    background-color: rgb(211, 211, 24);
-    width: 30px;
-    height: 30px;
-    top: 155px;
-    left: 260px;
-    position:absolute
+.text2 {
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 115px;
+    left: 265px;
+    font-size: 14px;
+    position: absolute;
 }
+
+
+.icon-2 {
+    top: 152px;
+    left: 225px;
+    position: absolute;
+}
+
 
 .circle {
     position: absolute;
@@ -77,15 +102,15 @@
 
 .maggy {
     position: absolute;
-    width: 162px;
-    height: 162px;
+    width: 185px;
+    height: 185px;
     top: 15px;
     left: 28px;
 
 } 
 
 .box-medium2 {
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 233px;
     height: 630px;
@@ -104,14 +129,14 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    font-weight: bold;
-    text-align: center;
+    text-align:  center ;
+    margin-top: 0px;
     padding-top: 10px;
     
 }
 
 .box-small5 {
-    background-color: rgb(41, 69, 94);
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 224px;
     height: 130px;
@@ -127,30 +152,29 @@
     position: absolute;
     width: 224px;
     height: 23px;
-    top: 395px;
+    top: 405px;
     left: 23px;
     border-radius: 35px 0px 35px 0px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    font-weight: bold;
     text-align: center;
     padding-top: 10px;
 }
 
 .box-small7 {
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 224px;
     height: 104px;
-    top: 438px;
+    top: 448px;
     left: 25px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .box-small8 {
-    background-color: rgb(143, 143, 9);
+    background-color:#9C8B27;
     position: absolute;
     width: 224px;
     height: 23px;
@@ -158,20 +182,19 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    font-weight: bold;
     text-align: center;
     padding-top: 10px;
-    top: 547px;
+    top: 557px;
     left: 25px
     
 }
 
 .box-small9 {
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 224px;
     height: 120px;
-    top: 590px;
+    top: 600px;
     left: 25px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -182,30 +205,29 @@
     position: absolute;
     width: 224px;
     height: 28px;
-    top: 720px;
+    top: 728px;
     left: 25px;
     border-radius: 35px 0px 35px 0px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    font-weight: bold;
     text-align: center;
     padding-top: 10px;
 }
 
 .box-small11 {
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 224px;
     height: 55px;
-    top: 770px;
+    top: 778px;
     left: 25px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .box-medium3 {
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 327px;
     height: 630px;
@@ -224,13 +246,12 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    font-weight: bold;
     text-align: center;
     padding-top: 10px;
 }
 
 .box-large1 {
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
     position:absolute;
     width: 40px;
     height: 80px;
@@ -243,7 +264,7 @@
 }
 
 .box-small13 {
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 275px;
     height: 35px;
@@ -256,7 +277,7 @@
 }
 
 .box-small14 {
-    background-color: chartreuse;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 275px;
     height: 245px;
@@ -268,7 +289,7 @@
 }
 
 .box-large2 {
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
     position:absolute;
     width: 40px;
     height: 80px;
@@ -281,7 +302,7 @@
 }
 
 .box-small16 {
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 275px;
     height: 65px;
@@ -292,7 +313,7 @@
 }
 
 .box-small17 {
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 275px;
     height: 58px;
@@ -300,11 +321,11 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     left: 315px;
-    top: 710px;px
+    top: 710px;
 }
 
 .box-small18 {
-    background-color: blue;
+    background-color: white;
     position: absolute;
     width: 275px;
     height: 65px;
@@ -315,7 +336,7 @@
 }
 
 .box-large3 {
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
     position:absolute;
     width: 40px;
     height: 80px;
@@ -327,8 +348,19 @@
     font-weight: bold;
 }
 
+.line1 {
+    background-color: #9C8B27;
+    position: absolute;
+    width: 2px;
+    height: 638px;
+    top: 202px;
+    left: 259px;
+  
+}
+
+
 .box-small15 {
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     width: 275px;
     height: 58px;
@@ -336,5 +368,46 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     left: 315px;
-    top: 570px;px
+    top: 570px;px 
+}
+
+#email {
+    top: 158px;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    left: 263px;
+    position:absolute
+    
+}
+
+.phone {
+    position: absolute;
+    left: 437px;
+    top: 115px;
+}
+
+.text3 {
+    position: absolute;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 123px;
+    left: 475px;
+    font-size: 14px;
+
+}
+
+.web {
+    position: absolute;
+    left: 437px;
+    top: 155px;
+}
+
+.text4 {
+    position: absolute;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 168px;
+    left: 478px;
+    font-size: 14px;
 }
