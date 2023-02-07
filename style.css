@@ -1,0 +1,340 @@
+.body {
+    background-color: beige;
+      
+}
+
+.box-conteiner1 {
+    position: absolute;
+    background-color: gray;
+    width: 595px;
+    height: 842px
+    
+}
+
+.box-medium1 {
+    position: absolute;
+    background-color: aquamarine;
+    width: 572px;
+    height: 181px;
+    top: 20px;
+    left: 20px;
+}
+
+.box-small1 {
+    position: absolute;
+    background-color: burlywood;
+    width: 280px;
+    height: 36px;
+    top: 23px;
+    left: 260px;
+    color: #9C8B27;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 37px;
+
+}
+
+.box-small2 {
+    position: absolute;
+    background-color: antiquewhite;
+    width: 315px;
+    height: 40px;
+    top: 65px;
+    left: 260px;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.box-small3 {
+    background-color: rgb(211, 211, 24);
+    width: 30px;
+    height: 30px;
+    top: 115px;
+    left: 260px;
+    position:absolute
+    
+}
+
+.box-icon1 {
+    background-color: rgb(211, 211, 24);
+    width: 30px;
+    height: 30px;
+    top: 155px;
+    left: 260px;
+    position:absolute
+}
+
+.circle {
+    position: absolute;
+    width: 143px;
+    height: 143px;
+    border-radius: 50%;
+    top: 25px;
+    left: 80px;
+    
+}
+
+.maggy {
+    position: absolute;
+    width: 162px;
+    height: 162px;
+    top: 15px;
+    left: 28px;
+
+} 
+
+.box-medium2 {
+    background-color: aqua;
+    position: absolute;
+    width: 233px;
+    height: 630px;
+    top: 210px;
+    left: 20px;
+}
+
+.box-small4 {
+    background-color:#9C8B27;
+    position: absolute;
+    width: 224px;
+    height: 23px;
+    top: 210px;
+    left: 25px;
+    border-radius: 35px 0px 35px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.box-small5 {
+    background-color: rgb(41, 69, 94);
+    position: absolute;
+    width: 224px;
+    height: 130px;
+    top: 255px;
+    left: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1B2137;
+}
+
+.box-small6 {
+    background-color:#9C8B27;
+    position: absolute;
+    width: 224px;
+    height: 23px;
+    top: 395px;
+    left: 23px;
+    border-radius: 35px 0px 35px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box-small7 {
+    background-color: bisque;
+    position: absolute;
+    width: 224px;
+    height: 104px;
+    top: 438px;
+    left: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-small8 {
+    background-color: rgb(143, 143, 9);
+    position: absolute;
+    width: 224px;
+    height: 23px;
+    border-radius: 35px 0px 35px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    top: 547px;
+    left: 25px
+    
+}
+
+.box-small9 {
+    background-color: blue;
+    position: absolute;
+    width: 224px;
+    height: 120px;
+    top: 590px;
+    left: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-small10 {
+    background-color: #9C8B27;
+    position: absolute;
+    width: 224px;
+    height: 28px;
+    top: 720px;
+    left: 25px;
+    border-radius: 35px 0px 35px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box-small11 {
+    background-color: red;
+    position: absolute;
+    width: 224px;
+    height: 55px;
+    top: 770px;
+    left: 25px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-medium3 {
+    background-color: aqua;
+    position: absolute;
+    width: 327px;
+    height: 630px;
+    top: 210px;
+    left: 265px;
+}
+
+.box-small12 {
+    background-color: #9C8B27;
+    position: absolute;
+    width: 224px;
+    height: 28px;
+    top: 210px;
+    left: 285px;
+    border-radius: 35px 0px 35px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box-large1 {
+    background-color: bisque;
+    position:absolute;
+    width: 40px;
+    height: 80px;
+    top: 260px;
+    left: 265px;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.box-small13 {
+    background-color: blueviolet;
+    position: absolute;
+    width: 275px;
+    height: 35px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    left: 315px;
+    top:260px
+    
+}
+
+.box-small14 {
+    background-color: chartreuse;
+    position: absolute;
+    width: 275px;
+    height: 245px;
+    left: 315px;
+    top: 310px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.box-large2 {
+    background-color: bisque;
+    position:absolute;
+    width: 40px;
+    height: 80px;
+    top: 570px;
+    left: 265px;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.box-small16 {
+    background-color: blue;
+    position: absolute;
+    width: 275px;
+    height: 65px;
+    left: 315px;
+    top: 630px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-small17 {
+    background-color: blueviolet;
+    position: absolute;
+    width: 275px;
+    height: 58px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    left: 315px;
+    top: 710px;px
+}
+
+.box-small18 {
+    background-color: blue;
+    position: absolute;
+    width: 275px;
+    height: 65px;
+    left: 315px;
+    top: 775px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-large3 {
+    background-color: bisque;
+    position:absolute;
+    width: 40px;
+    height: 80px;
+    top: 710px;
+    left: 265px;
+    color: #1B2137;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.box-small15 {
+    background-color: blueviolet;
+    position: absolute;
+    width: 275px;
+    height: 58px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    left: 315px;
+    top: 570px;px
+}
